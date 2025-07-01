@@ -157,4 +157,3 @@ barplot_cell_surface_06252025_56_combined <- cell_surface_06252025_56_combined |
     vjust = -0.3,
     size = 5
   )
-
